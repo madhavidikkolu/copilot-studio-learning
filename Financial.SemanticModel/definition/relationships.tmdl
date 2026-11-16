@@ -1,0 +1,9 @@
+relationship 40f07403-9dc8-4fb3-b144-cb62d4af0618
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.Date
+	toColumn: LocalDateTable_b935c966-a639-4d2d-aa52-7093cb0d16a1.Date
+
+relationship 46100aff-f41c-6478-99b7-03230189d940
+	fromColumn: financials.Date
+	toColumn: Calendar.Date
+
